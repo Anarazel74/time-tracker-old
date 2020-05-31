@@ -5,4 +5,4 @@ Java (Maven) application for tracking time on the job
 
 This purpose of this project is to show how to use Maven and Jenkins together.
 
-Et mon test d'update
+Et mon test d'update avec comment
